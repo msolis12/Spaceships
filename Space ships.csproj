@@ -86,4 +86,6 @@
 	  </MauiImage>
 	</ItemGroup>
 
+	<ProjectExtensions><VisualStudio><UserProperties XamarinHotReloadDebuggerTimeoutExceptionSpaceshipsHideInfoBar="True" /></VisualStudio></ProjectExtensions>
+
 </Project>

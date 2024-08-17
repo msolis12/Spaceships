@@ -8,7 +8,6 @@
     Title="Space_ships">
 
     <ShellContent
-        Title="Home"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
